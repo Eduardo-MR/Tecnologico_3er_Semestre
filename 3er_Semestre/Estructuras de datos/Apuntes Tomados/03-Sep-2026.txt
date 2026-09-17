@@ -1,0 +1,66 @@
+Estructuras de datos: 03/Septiembre/2026
+
+Clasificaciones de Estructuras de Datos en Memoria
+
+Estaticas -> Arreglos, Pilas, Colas
+Dinamicas -> Listas enlazadas simplees, Listas enlazadas dobles, Arboles, Grafos.
+
+Clasificacion de Estructuras de datos clasificadas por tipo de recorrido
+
+Lineales -> Arreglos, Pilas, Colas, Listas enlazadas simples, Listas enlazadas dobles.
+No lineales -> Arboles, Grafos.
+=============================================================================================
+ESTRUCTURAS DINAMICAS
+
+-Las estructuras dinamicas no definen su tamaño en memoria antes de su utilizacion
+-Crecen proporcionalmente a la cantidad de datos que almacenan
+-Se controlan mediante apuntadores (referencias)
+
+
+ESTRUCTURAS LINEALES
+-Son aquellas en las que cada dato solamente tiene un sucesor
+
+ESTRUCTURAS NO LINEALES
+-Son  aquellas en las que cada dato puede tener varios sucesores.
+-Se requiere una estrategia para definir el criterio del recorrido
+-Los algoritmos de recorrido debe controlar.
+
+
+LISTA ENLAZADA SIMPLE
+	Es una estructura de datos lineal ydinamica que se coompone de un conjunto de nodos en secuencia enlazados mediante un apuntador
+o referencia
+
+-La lista simple tiene un apuntador inicial
+-El ultimoo nod de la lista apunta a nulo
+
+Tipos de listas simples
+-Datos ordenados
+-Datos desordenados
+
+Ordenados>
+-Se recorren logicamente los nodos de la lista simple
+-Se ubica la posicion definitiva de un nuev nodo
+-Se mantiene el orden logico de los datos
+
+Desordenados>
+-El nuevo  dato se agrega al final de la lista simple
+
+AQUITECTURA DEL NODO
+
+Cada nodo tiene 2 secciones
+1-Dato
+2-Apuntador o referencia q ue enlaza al siguiente nodo en secuencia logica.
+
+DISEÑO  DE  UNA LISTA SIMPLE ORIENTADA A OBJETOS
+
+Se identifican 3 tipos de objetos en la lista simple
+-Los objetos con los datos que se desean almacenar y ordenar (Rojo)
+-Los objetos de los nodos (Azul)
+-El objeto de la lista simple ordenada (Verde)
+
+Esquema de los objetos
+
+La lista simple (objeto verde) dentro tiene una secuencia logica de nodos(objetos azules) enlazados
+por apuntadores y cada uno de ellos a su vez tiene dentro un objeto con los datos que se desean almacenar
+y ordenar (objetos rojos).
+
