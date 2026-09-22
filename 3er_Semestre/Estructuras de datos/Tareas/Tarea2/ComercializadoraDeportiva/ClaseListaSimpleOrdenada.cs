@@ -83,7 +83,6 @@ namespace ComercializadoraDeportiva
                     nodoActual = nodoActual.Siguiente;
                 }
 
-                //Alta al final de la lista
                 ClaseNodo<Tipo> nodoFinal = new ClaseNodo<Tipo>();
                 nodoFinal.ObjetoConDatos = objeto;
                 nodoFinal.Siguiente = null;

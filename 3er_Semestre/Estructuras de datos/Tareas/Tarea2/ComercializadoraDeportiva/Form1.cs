@@ -13,7 +13,6 @@ namespace ComercializadoraDeportiva
 {
     public partial class Form1 : Form
     {
-        // Instancia de tu lista enlazada
         private ClaseListaSimpleOrdenada<ComercializadoraDeportiva> listaComercializadoras = new ClaseListaSimpleOrdenada<ComercializadoraDeportiva>();
         private string rutaFotoActual = string.Empty;
 
@@ -34,14 +33,13 @@ namespace ComercializadoraDeportiva
             dgvDatos.Columns.Add("Mayorista", "Mayorista");
             dgvDatos.Columns.Add("Categoria", "Tamaño");
             dgvDatos.Columns.Add("Ruta", "Ruta Foto");
-            dgvDatos.Columns["Ruta"].Visible = false; // Ocultamos la ruta en el grid visualmente
+            dgvDatos.Columns["Ruta"].Visible = false;
         }
 
         private void ActualizarGrid()
         {
             dgvDatos.Rows.Clear();
 
-            // C# permite foreach si existe el método GetEnumerator() público
             foreach (ComercializadoraDeportiva empresa in listaComercializadoras)
             {
                 dgvDatos.Rows.Add(
@@ -73,7 +71,6 @@ namespace ComercializadoraDeportiva
 
         private ComercializadoraDeportiva ObtenerDatosDeControles()
         {
-            // Validaciones
             if (!int.TryParse(txtNumero.Text, out int numero))
                 throw new Exception("El número debe ser un valor entero válido.");
 
@@ -100,7 +97,6 @@ namespace ComercializadoraDeportiva
             };
         }
 
-        // --- EVENTO PARA SELECCIONAR EN EL GRID ---
 
         private void dgvDatos_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -108,10 +104,8 @@ namespace ComercializadoraDeportiva
             {
                 try
                 {
-                    // Obtenemos el número del renglón seleccionado
                     int numeroSeleccionado = Convert.ToInt32(dgvDatos.Rows[e.RowIndex].Cells["Numero"].Value);
 
-                    // Buscamos el objeto original en la lista
                     ComercializadoraDeportiva busqueda = new ComercializadoraDeportiva { NumeroDeComercializadora = numeroSeleccionado };
                     ComercializadoraDeportiva encontrada = listaComercializadoras.BuscarNodo(busqueda);
 
@@ -124,7 +118,6 @@ namespace ComercializadoraDeportiva
             }
         }
 
-        // Método auxiliar para reflejar el objeto en la pantalla
         private void MostrarDatosEnControles(ComercializadoraDeportiva empresa)
         {
             txtNumero.Text = empresa.NumeroDeComercializadora.ToString();
@@ -142,7 +135,6 @@ namespace ComercializadoraDeportiva
 
             if (!string.IsNullOrEmpty(rutaFotoActual) && File.Exists(rutaFotoActual))
             {
-                // Cargar imagen sin bloquear el archivo
                 using (FileStream fs = new FileStream(rutaFotoActual, FileMode.Open, FileAccess.Read))
                 {
                     picLogotipo.Image = Image.FromStream(fs);
@@ -174,7 +166,6 @@ namespace ComercializadoraDeportiva
         {
             Random rnd = new Random();
 
-            // Diccionario de marcas
             Dictionary<string, string> marcasDeportivas = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
             {
                 { "1.png", "Jordan Brand" },
@@ -199,7 +190,6 @@ namespace ComercializadoraDeportiva
 
             char[] categorias = { 'P', 'M', 'G' };
 
-            // Ciclo para generar 10 registros
             for (int i = 0; i < 10; i++)
             {
                 int nuevoNumero = rnd.Next(1, 1000);
