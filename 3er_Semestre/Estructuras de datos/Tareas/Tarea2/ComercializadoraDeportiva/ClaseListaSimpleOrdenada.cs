@@ -39,10 +39,10 @@ namespace ComercializadoraDeportiva
 
         public void InsertarNodo(Tipo objeto)
         {
+            ClaseNodo<Tipo> nodoNuevo = new ClaseNodo<Tipo>();
 
             if (Vacia)
             {
-                ClaseNodo<Tipo> nodoNuevo = new ClaseNodo<Tipo>();
                 nodoNuevo.ObjetoConDatos = objeto;
                 nodoNuevo.Siguiente = null;
                 NodoInicial = nodoNuevo;
@@ -65,14 +65,12 @@ namespace ComercializadoraDeportiva
                     {
                         if (NodoInicial == nodoActual)
                         {
-                            ClaseNodo<Tipo> nodoNuevo = new ClaseNodo<Tipo>();
                             nodoNuevo.ObjetoConDatos = objeto;
                             nodoNuevo.Siguiente = nodoActual;
                             NodoInicial = nodoNuevo;
                         }
                         else
                         {
-                            ClaseNodo<Tipo> nodoNuevo = new ClaseNodo<Tipo>();
                             nodoNuevo.ObjetoConDatos = objeto;
                             nodoNuevo.Siguiente = nodoActual;
                             nodoAnterior.Siguiente = nodoNuevo;
@@ -83,10 +81,9 @@ namespace ComercializadoraDeportiva
                     nodoActual = nodoActual.Siguiente;
                 }
 
-                ClaseNodo<Tipo> nodoFinal = new ClaseNodo<Tipo>();
-                nodoFinal.ObjetoConDatos = objeto;
-                nodoFinal.Siguiente = null;
-                nodoAnterior.Siguiente = nodoFinal;
+                nodoNuevo.ObjetoConDatos = objeto;
+                nodoNuevo.Siguiente = null;
+                nodoAnterior.Siguiente = nodoNuevo;
                 return;
             }
         }
