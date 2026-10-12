@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\examen\\1erexamenpractico\\1erexamenpractico\\claselistadobledesordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|solutionrelative:claselistadobledesordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\examen\\1erexamenpractico\\1erexamenpractico\\comercializadoradeportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|solutionrelative:comercializadoradeportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\examen\\1erexamenpractico\\1erexamenpractico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\examen\\1erexamenpractico\\1erexamenpractico\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\examen\\1erexamenpractico\\1erexamenpractico\\clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032A6F2-3867-430B-87F9-81D11EF1C1B9}|1erExamenPractico.csproj|solutionrelative:clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComercializadoraDeportiva.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ComercializadoraDeportiva.cs",
+              "RelativeDocumentMoniker": "ComercializadoraDeportiva.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ComercializadoraDeportiva.cs",
+              "RelativeToolTip": "ComercializadoraDeportiva.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:23:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:04:39.964Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:30:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaseListaDobleDesordenada.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ClaseListaDobleDesordenada.cs",
+              "RelativeDocumentMoniker": "ClaseListaDobleDesordenada.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ClaseListaDobleDesordenada.cs",
+              "RelativeToolTip": "ClaseListaDobleDesordenada.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwKIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:24:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaseNodo.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ClaseNodo.cs",
+              "RelativeDocumentMoniker": "ClaseNodo.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Examen\\1erExamenPractico\\1erExamenPractico\\ClaseNodo.cs",
+              "RelativeToolTip": "ClaseNodo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:24:23.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

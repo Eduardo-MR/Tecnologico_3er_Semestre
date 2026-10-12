@@ -1,0 +1,10 @@
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\bin\Debug\1erExamenPractico.exe.config
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\bin\Debug\1erExamenPractico.exe
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\bin\Debug\1erExamenPractico.pdb
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\1erExamenPractico.csproj.AssemblyReference.cache
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\_1erExamenPractico.Form1.resources
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\_1erExamenPractico.Properties.Resources.resources
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\1erExamenPractico.csproj.GenerateResource.cache
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\1erExamenPractico.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\1erExamenPractico.exe
+C:\Users\mejia\Desktop\Tecnologico\3er_Semestre\Estructuras de datos\Examen\1erExamenPractico\1erExamenPractico\obj\Debug\1erExamenPractico.pdb

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\claselistadobledesordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|solutionrelative:claselistadobledesordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|solutionrelative:clasenodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\comercializadoradeportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|solutionrelative:comercializadoradeportiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|c:\\users\\mejia\\desktop\\tecnologico\\3er_semestre\\estructuras de datos\\tareas\\tarea 3\\comercializadoradeportiva\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D467B7-B2EA-4BAE-9B68-9C07081070BF}|ComercializadoraDeportiva.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAAAAMBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:54:35.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:06:08.476Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComercializadoraDeportiva.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ComercializadoraDeportiva.cs",
+              "RelativeDocumentMoniker": "ComercializadoraDeportiva.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ComercializadoraDeportiva.cs",
+              "RelativeToolTip": "ComercializadoraDeportiva.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAE4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:09:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseNodo.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ClaseNodo.cs",
+              "RelativeDocumentMoniker": "ClaseNodo.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ClaseNodo.cs",
+              "RelativeToolTip": "ClaseNodo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:08:49.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaseListaDobleDesordenada.cs",
+              "DocumentMoniker": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ClaseListaDobleDesordenada.cs",
+              "RelativeDocumentMoniker": "ClaseListaDobleDesordenada.cs",
+              "ToolTip": "C:\\Users\\mejia\\Desktop\\Tecnologico\\3er_Semestre\\Estructuras de datos\\Tareas\\Tarea 3\\ComercializadoraDeportiva\\ClaseListaDobleDesordenada.cs",
+              "RelativeToolTip": "ClaseListaDobleDesordenada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:07:41.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
